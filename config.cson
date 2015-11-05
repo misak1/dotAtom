@@ -1,0 +1,19 @@
+"*":
+  editor:
+    invisibles: {}
+    fontFamily: "Ricty Diminished"
+    showInvisibles: true
+    showIndentGuide: true
+    fontSize: 14
+  core: {}
+  "exception-reporting":
+    userId: "ef5261e9-09f5-6036-1df1-de0612d03275"
+  welcome:
+    showOnStartup: false
+  "atom-beautify":
+    _analyticsUserId: "cd0f8ea4-c0ee-41ae-a9f5-330afe58fe83"
+  linter: {}
+  "atom-color-highlight": {}
+".perl.source":
+  editor:
+    tabLength: 4
