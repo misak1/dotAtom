@@ -4,6 +4,7 @@
 
 storage/
 compile-cache/
+.apm/
 dev
 .npm
 .node-gyp
