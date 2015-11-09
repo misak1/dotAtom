@@ -49,3 +49,4 @@ apm install project-manager
 apm install script
 apm install zentabs
 
+# apm rebuild-module-cache
