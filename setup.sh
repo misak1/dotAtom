@@ -37,6 +37,7 @@ apm install highlight-line
 apm install highlight-selected
 apm install language-jade
 apm install language-stylus
+apm install language-twig
 apm install linter
 apm install minimap
 apm install minimap-autohide
