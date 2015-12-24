@@ -27,6 +27,7 @@ cp -Rfpav styles.less ~/.atom/
 apm install atom-beautify
 apm install atom-jshint
 apm install atom-php-navigation
+apm install atom-runner
 apm install atom-ternjs
 apm install autocomplete-paths
 apm install coffee-navigator
@@ -49,8 +50,10 @@ apm install multi-cursor
 apm install pigments
 apm install pretty-json
 apm install project-manager
+apm install regex-railroad-diagram
 apm install script
 apm install symbols-tree-view
+apm install tablr
 apm install zentabs
 
 # apm rebuild-module-cache
